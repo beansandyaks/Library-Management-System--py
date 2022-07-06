@@ -1,0 +1,8 @@
+Catch-22,Joseph Heller,16,Rs. 40
+War and Peace,Leo Tolstoy,10,Rs. 100
+Animal Farm,George Orwell,14,Rs. 50
+Fahrenheit 451,Ray Bradbury,17,Rs. 60
+The Zahir,Paulo Coelho,6,Rs. 100
+The Hobbit,JRR Tolkein,8,Rs. 150 
+The Alchemist,Paulo Coelho,8,Rs. 125
+Anna Karenina,Leo Tolstoy,8,Rs. 100
